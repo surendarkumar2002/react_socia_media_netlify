@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "datetime": "July 01, 2021 11:17:34 AM",
+      "body": "Made a video about Tesla result"
+    },
+    {
+      "id": 2,
+      "title": "Exciting Adventure",
+      "datetime": "November 08, 2023 03:30:00 PM",
+      "body": "Went on a thrilling hiking trip to the Grand Canyon!"
+    },
+    {
+      "id": 3,
+      "title": "Delicious Recipe with notes",
+      "datetime": "November 09,2023 12:06:04 PM",
+      "body": "Tried a new recipe for homemade pizza, and it turned out amazing!"
+    }
+  ]
+}
